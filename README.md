@@ -17,6 +17,7 @@ Build 100 projects in JavaScript to be proficient in language.
 4. I will ask for help when I need it—before I look at the answers/solution, if available.
 
 ## The Projects
+* [Project 1](https://github.com/iharmanpannu/Project1-JS)
 
 
 ## Resources
