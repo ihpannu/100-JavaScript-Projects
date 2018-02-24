@@ -31,4 +31,5 @@ Build 100 projects in JavaScript to be proficient in language.
 
 * [Codecademy JavaScript](https://www.codecademy.com/learn/introduction-to-javascript)
 * ["You Don't Know JS"](https://github.com/getify/You-Dont-Know-JS) Book Series
+* ["Lynda.com"](https://www.lynda.com/JavaScript-tutorials/Welcome/609025/664014-4.html) Online platform to learn 
 
