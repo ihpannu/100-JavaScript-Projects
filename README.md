@@ -22,6 +22,7 @@ Build 100 projects in JavaScript to be proficient in language.
 * [Project 3](https://github.com/iharmanpannu/fs-treehouse-project-3)
 * [Project 4](https://github.com/iharmanpannu/Project3-JS)
 * [Project 5](https://github.com/iharmanpannu/HSports-Web-App/tree/master)
+* [Project 6](https://github.com/iharmanpannu/Pannu-Hotel)
 
 ## Resources 📖
 
