@@ -5,7 +5,7 @@ Build 100 projects in JavaScript to be proficient in language.
 ## Goal ⚽️
 
 1. Learn programming thinking via JavaScript.
-2. Learn enough React to build your own demo app for your work project.
+2. Learn enough React, Vue, Angular to build your own demo app for your work project.
 3. Learn Node; be able to build your own tooling for front-end architecture.
 
 
@@ -23,6 +23,9 @@ Build 100 projects in JavaScript to be proficient in language.
 * [Project 4](https://github.com/iharmanpannu/Project3-JS)
 * [Project 5](https://github.com/iharmanpannu/HSports-Web-App/tree/master)
 * [Project 6](https://github.com/iharmanpannu/Pannu-Hotel)
+* [Project 7](https://github.com/iharmanpannu/vue-firebase)
+* [Project 8](https://github.com/iharmanpannu/ang-app)
+* [Project 9](https://github.com/iharmanpannu/indigo)
 
 ## Resources 📖
 
