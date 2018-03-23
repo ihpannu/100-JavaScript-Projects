@@ -26,6 +26,7 @@ Build 100 projects in JavaScript to be proficient in language.
 * [Project 7](https://github.com/iharmanpannu/vue-firebase)
 * [Project 8](https://github.com/iharmanpannu/ang-app)
 * [Project 9](https://github.com/iharmanpannu/indigo)
+* [Project 10](https://github.com/iharmanpannu/vue-todo)
 
 ## Resources 📖
 
